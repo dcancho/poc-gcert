@@ -1,0 +1,50 @@
+[
+  {
+    "id": "shape_1",
+    "type": "Text",
+    "startX": 15,
+    "startY": 110.339111328125,
+    "index": 1,
+    "text": "Diego",
+    "fontSize": 64,
+    "fontFamily": "Arial",
+    "color": "black",
+    "strokeColor": "",
+    "fillColor": "",
+    "strokeWidth": 2,
+    "fontStyle": [],
+    "degree": 0
+  },
+  {
+    "id": "shape_2",
+    "type": "Text",
+    "startX": 15,
+    "startY": 210.339111328125,
+    "index": 2,
+    "text": "2024-11-23",
+    "fontSize": 64,
+    "fontFamily": "Arial",
+    "color": "black",
+    "strokeColor": "",
+    "fillColor": "",
+    "strokeWidth": 2,
+    "fontStyle": [],
+    "degree": 0
+  },
+  {
+    "id": "shape_3",
+    "type": "Text",
+    "startX": 15,
+    "startY": 310.339111328125,
+    "index": 3,
+    "text": "Azure Fundamentals",
+    "fontSize": 64,
+    "fontFamily": "Arial",
+    "color": "black",
+    "strokeColor": "",
+    "fillColor": "",
+    "strokeWidth": 2,
+    "fontStyle": [],
+    "degree": 0
+  }
+]
